@@ -14,7 +14,7 @@ This is used to commit and push changes, and to create and merge branches.
 This is used to create the autonomous paths we used for the first 15 seconds of the match.
 
 ### Clone This Repository
-Open GitKraken and log in using your github account. From there click on the *Clone a Repo* button, select the second option (GitHub.com) and search for this repository, "PracticeRobotAutoChallenge".
+Open GitKraken and log in using your github account. From there click on the *Clone a Repo* button, select the second option (GitHub.com) and search for this repository, "LevelOne".
 
 ### Create an Autonomous Path using PathPlanner
 
